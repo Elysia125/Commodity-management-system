@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/visible.png</file>
+        <file>images/invisible.png</file>
+        <file>images/loginbackground.jpg</file>
+        <file>images/registerbackground.jpg</file>
+        <file>images/firstpage.png</file>
+        <file>images/menu.png</file>
+        <file>images/user.png</file>
+        <file>images/shangpin.png</file>
+        <file>images/jinhuo.png</file>
+        <file>images/kucun.png</file>
+        <file>images/xiaoshou.png</file>
+        <file>images/search.png</file>
+        <file>images/gongneng.png</file>
+        <file>images/return.png</file>
+        <file>images/lirun.png</file>
+        <file>images/money.png</file>
+        <file>images/waring.png</file>
+        <file>images/chenben.png</file>
+        <file>images/download.png</file>
+        <file>images/gongneng2.png</file>
+        <file>images/gongneng3.png</file>
+        <file>images/gongneng4.png</file>
+    </qresource>
+</RCC>
